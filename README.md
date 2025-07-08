@@ -1,4 +1,4 @@
-## Contributors
+## Contributors/Collaborators
 
 - [Aman Kumar Jha](https://github.com/amankumar6204)
 - [Aditya Kumar](https://github.com/adraj48)
